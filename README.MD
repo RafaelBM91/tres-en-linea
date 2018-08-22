@@ -1,7 +1,5 @@
 # React Development Enviroment
 
-## Ambiente de desarrollo para react.js
+## Juego multijugador "tres en linea"
 
-## Plus example hoc react
-
-### ready - listo
+### version for developments...
